@@ -1,0 +1,11 @@
+menu.c:47:6:menu_refresh	16	static
+menu.c:96:9:menu_get_index	24	static
+menu.c:112:9:menu_get_level	24	static
+menu.c:126:6:key_next_press	8	static
+menu.c:131:6:key_prev_press	8	static
+menu.c:136:6:key_enter_press	8	static
+menu.c:141:6:key_back_press	8	static
+menu.c:147:6:menu_back	8	static
+menu.c:170:6:menu_enter	8	static
+menu.c:199:6:menu_next	8	static
+menu.c:219:6:menu_prev	8	static

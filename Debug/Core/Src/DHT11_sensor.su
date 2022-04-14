@@ -1,0 +1,10 @@
+DHT11_sensor.c:33:10:DWT_Delay_Init	4	static,ignoring_inline_asm
+DHT11_sensor.c:64:22:delay	24	static
+DHT11_sensor.c:75:6:Set_Pin_Output	32	static
+DHT11_sensor.c:84:6:Set_Pin_Input	32	static
+DHT11_sensor.c:94:6:DHT_Start	8	static
+DHT11_sensor.c:113:9:DHT_Check_Response	16	static
+DHT11_sensor.c:128:9:DHT_Read	16	static
+DHT11_sensor.c:147:6:DHT_GetData	16	static
+DHT11_sensor.c:170:9:Temperature	16	static
+DHT11_sensor.c:176:9:Humidity	16	static

@@ -1,0 +1,15 @@
+GPS.c:18:7:strtoke	24	static
+GPS.c:36:6:NEO6_ReceiveUartChar	24	static
+GPS.c:71:5:NEO6_GetCharFromBuffer	16	static
+GPS.c:82:5:NEO6_GetLineFromBuffer	24	static
+GPS.c:106:6:NEO6_ParseGPRMC	24	static
+GPS.c:167:6:NEO6_ParseGPVTG	24	static
+GPS.c:198:6:NEO6_ParseGPGGA	24	static
+GPS.c:239:6:NEO6_ParseGPGSA	24	static
+GPS.c:282:6:NEO6_ParseGPGSV	16	static
+GPS.c:295:6:NEO6_ParseGPGLL	16	static
+GPS.c:302:6:NEO6_ParseLine	24	static
+GPS.c:320:9:NEO6_IsFix	16	static
+GPS.c:325:6:NEO6_Task	16	static
+GPS.c:334:6:NEO6_Init	16	static
+GPS.c:364:6:NEO6_Recive_Data	16	static

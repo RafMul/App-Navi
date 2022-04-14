@@ -1,0 +1,16 @@
+hmc5883l.c:22:9:Read8	40	static
+hmc5883l.c:34:10:Read16	40	static
+hmc5883l.c:44:9:HMC5883L_getHeadingX	40	static
+hmc5883l.c:55:9:HMC5883L_getHeadingZ	40	static
+hmc5883l.c:65:9:HMC5883L_getHeadingY	40	static
+hmc5883l.c:75:6:Write8	32	static
+hmc5883l.c:82:6:HMC5883L_MeasureMode	24	static
+hmc5883l.c:107:6:HMC5883L_DataOutputRate	24	static
+hmc5883l.c:116:6:HMC5883L_SamplesAveraged	24	static
+hmc5883l.c:125:6:HMC5883L_Gain	24	static
+hmc5883l.c:140:6:HMC5883L_OperatingMode	24	static
+hmc5883l.c:148:9:HMC5883L_StatusRegister	24	static
+hmc5883l.c:164:7:Direction_Radians	40	static
+hmc5883l.c:186:7:Direction_Degress	24	static
+hmc5883l.c:194:9:Compas_Degress	8	static
+hmc5883l.c:208:9:HMC5883L_Init	24	static
